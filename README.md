@@ -1,2 +1,6 @@
 # hello-world
-new learner!
+
+hello there
+
+im exploring and trying out github for my project, which is not easy!
+
